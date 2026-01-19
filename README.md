@@ -22,11 +22,11 @@
 
 ### Training & Challenges
 <a href="https://www.codewars.com/users/Merlin%20Clos">
-  <img src="https://img.shields.io/badge/CodeWars-Training-B1361E?style=flat-square&logo=codewars&logoColor=white" alt="CodeWars" />
+  <img src="https://img.shields.io/badge/CodeWars-B1361E?style=flat-square&logo=codewars&logoColor=white" alt="CodeWars" />
 </a>
 &nbsp;
 <a href="https://www.root-me.org/Merlin-Clos">
-  <img src="https://img.shields.io/badge/Root--Me-Training-000000?style=flat-square&logo=root-me&logoColor=white" alt="RootMe" />
+  <img src="https://img.shields.io/badge/Root--Me-000000?style=flat-square&logo=root-me&logoColor=white" alt="RootMe" />
 </a>
 
 <br/><br/>
