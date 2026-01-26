@@ -32,6 +32,6 @@
 <br/><br/>
 
 ### Hardware Performance
-🏆 **Top 31 Worldwide / Top 2 France** on [3DMark Time Spy](https://www.3dmark.com/spy/52028926) (Despite a **20% power deficit** limited by the hardware).
+🏆 **Top 2 France / Top 31 Worldwide** on [3DMark Time Spy](https://www.3dmark.com/spy/52028926) (Despite a **20% power deficit** limited by the hardware).
 
 </div>
